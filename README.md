@@ -8,3 +8,4 @@
 Cách chạy (nếu có code):
 1. Clone repo
 2. Thực hiện các bước như trong README
+3. Đây là pull request Test_02
